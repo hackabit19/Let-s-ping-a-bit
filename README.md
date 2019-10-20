@@ -37,6 +37,9 @@ follow the following instruction to run project on your computer.
 ### Authors
 
 <ul>
-  <br> Saurabh - <i>Lead Developer</i> - <a href="https://github.com/UnixLoverSaurabh">UnixLoverSaurabh</a></br>
-    </br>Suhas - <i> Programmer </i> - <a href="https://github.com/JokerSuhas">JokerSuhas</a></br>
+  <li> Saurabh - <i>Lead Developer</i> - <a href="https://github.com/UnixLoverSaurabh">UnixLoverSaurabh</a></li>
+    <li>Suhas - <i> Programmer </i> - <a href="https://github.com/JokerSuhas">JokerSuhas</a></li>
  </ul>
+ 
+ ### Acknowledgements
+ 
