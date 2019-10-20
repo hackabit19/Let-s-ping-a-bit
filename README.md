@@ -43,3 +43,16 @@ follow the following instruction to run project on your computer.
  
  ### Acknowledgements
  
+ <ul>
+    <li><a href="https://www.your-vector-maps.com/world/-144-free-vector-world-maps/?imagelist=wrld-bas">Your-Vector-Maps.com</a></li>
+    <li>Unity Asset Store -<a href="https://assetstore.unity.com/packages/3d/environments/sci-fi/planet-earth-free-23399">Planet Earth Free by Headwards</a></li>
+     <li>Unity Script Reference -<a href="https://docs.unity3d.com/2017.3/Documentation/ScriptReference/RaycastHit-textureCoord2.html"> RaycastHit TextureCoord2</a></li>
+     <li>Unity Forum -<a href="https://forum.unity.com/threads/find-pixel-colour-under-object-position.327284/"> Find pixel colour under object position</a></li>
+    <li><a href="https://www.turbosquid.com/FullPreview/Index.cfm/ID/698755">Bulky Ball 3D Model</a> </li>
+     <li><a href="https://www.turbosquid.com/FullPreview/Index.cfm/ID/889072">Male Poly Character 3D Model</a> </li>
+    
+ </ul>
+    
+    
+   
+ 
