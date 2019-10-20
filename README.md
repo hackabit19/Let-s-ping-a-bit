@@ -23,3 +23,13 @@ follow the following instruction to run project on your computer.
 <br> You may require to install the android studio with Android SDK & JDK for exporting an app to device. </br>
 <br> after opening the project click on Build and Run the app will get created. Installed it into your available android device.Apk file is also attached with the project.apk compatibility cannot be guranteed. </br>
 <br>To use the app, open images as given here <a href="https://github.com/hackabit19/Let-s-ping-a-bit/blob/master/map.jpg">map.jpg</a>, <a href="https://github.com/hackabit19/Let-s-ping-a-bit/blob/master/human.jpg">human.jpg</a>, <a href="https://github.com/hackabit19/Let-s-ping-a-bit/blob/master/Bullkminifullerence.jpg">bulk.jpg</a>, on a screen other than the one that has the app installed. Point the app's camera interface onto map.jpeg and an augmented reality model should pop up. Make sure the image on the other screen is easily visible by the app and no reflection or smudges hinder the visibility of the image.</br>
+
+### Built with
+<ul>
+    <li><a href="https://unity.com/">Unity</a> - Cross-platform real-time game engine developed by Unity Technologies</li>
+    <li><a href="https://inkscape.org/">Inkscape</a> - Free and open-source vector graphics editor</li>
+    <li><a href="https://boxy-svg.com/">Boxy SVG</a> -  Online tool for editing SVG files</li>
+    <li><a href="https://visualstudio.microsoft.com/">Microsoft Visual Studio </a> - Integrated development environment for C# from Microsoft</li>
+    <li><a href="https://developer.vuforia.com/">Vuforia</a> - Augmented reality software development kit (SDK) for mobile devices that enables the creation of augmented reality applications</li>
+   <li> <a href="https://processing.org/">Processing</a> - Open-source graphical library and integrated development environment/playground built for the electronic arts, new media art and visual design</li>
+  </ul>
