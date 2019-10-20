@@ -33,3 +33,10 @@ follow the following instruction to run project on your computer.
     <li><a href="https://developer.vuforia.com/">Vuforia</a> - Augmented reality software development kit (SDK) for mobile devices that enables the creation of augmented reality applications</li>
    <li> <a href="https://processing.org/">Processing</a> - Open-source graphical library and integrated development environment/playground built for the electronic arts, new media art and visual design</li>
   </ul>
+
+### Authors
+
+<ul>
+    Saurabh - <i>Lead Developer</i> - <a href="https://github.com/UnixLoverSaurabh">UnixLoverSaurabh</a>
+    Suhas - <i> Programmer </i> - <a href="https://github.com/JokerSuhas">JokerSuhas</a>
+ </ul>
